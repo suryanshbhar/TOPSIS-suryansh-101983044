@@ -19,17 +19,24 @@ module.topsis(file_name,weights,impacts,resultant_filename)
 ![](images/code.PNG)
 #### Usage Contsraints
 The  first attribute is a string containg the name of the input csv file.It should contain the input model and should be present in the working directory.
-###### It should have more than 3 columns.
-###### First column is the object/variable name.
-###### From 2nd to last columns contain numeric values only.
+###### * It should have more than 3 columns.
+###### * First column is the object/variable name.
+###### * From 2nd to last columns contain numeric values only.
 
 The second attribute is a string containing comma seperated weights.
 Example: "1,1,1,1" 
-###### Weights should be numerical and should be separated by commas.
+###### * Weights should be numerical and should be separated by commas.
 
 The third attribute is a string containing comma seperated impacts.
 Example: "+,-,-,+"
-###### Impacts could either be '+' or '-'.Impacts should be comma separated.
+###### * Impacts could either be '+' or '-'. Impacts should be comma separated.
 
-###### Number of WEIGHTS and IMPACTS must be equal to the number of COLUMNS(excluding the first object column) in the input file
+###### * Number of WEIGHTS and IMPACTS must be equal to the number of COLUMNS(excluding the first object column) in the input file
+
+## Authors
+Suryansh Bhadwaj
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
 
