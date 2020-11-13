@@ -8,7 +8,7 @@ setup(
   author = 'Suryansh Bhardwaj',                   # Type in your name
   author_email = 'suryanshbhar@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/suryanshbhar/TOPSIS-suryansh-101983044',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/suryanshbhar/TOPSIS-suryansh-101983044/archive/v0.1.tar.gz',    # I explain this later on
   keywords = ['SIMPLE', 'TOPSIS', 'DATA SCIENCE','MULTI DECISION CRITERIA'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'pandas',
