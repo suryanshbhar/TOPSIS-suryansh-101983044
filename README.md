@@ -1,5 +1,6 @@
 # TOPSIS-suryansh-101983044
 This python module aims to implement Multiple Criteria Decision Making using TOPSIS ranking.
+The module is available at https://pypi.org/project/TOPSIS-suryansh-101983044/0.1/.
 ## Description
 This module basically is a function which requires a CSV file as input which contains the model on which you wish to implement TOPSIS  along with impacts,weights and a name for the result file.The model basically builts a result csv file which has two additional columns, TOPSIS score and rank respectively. 
 ## Installation
