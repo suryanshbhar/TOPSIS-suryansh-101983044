@@ -35,7 +35,7 @@ Example: "+,-,-,+"
 ###### * Number of WEIGHTS and IMPACTS must be equal to the number of COLUMNS(excluding the first object column) in the input file
 
 ## Authors
-Suryansh Bhadwaj
+Suryansh Bhardwaj
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
